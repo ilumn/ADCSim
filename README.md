@@ -16,7 +16,7 @@ A simulation tool for CubeSat Attitude Determination and Control Systems using C
 
 3. **Run Simulation**  
    ```bash
-   python main.py
+   python ADCSim
    ```
 
 ---
