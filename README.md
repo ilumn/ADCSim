@@ -1,6 +1,10 @@
 # ADCSim
 A simulation tool for CubeSat Attitude Determination and Control Systems using C++ extensions (physics/graphics) with a Python controller.
 
+
+https://github.com/user-attachments/assets/8e9f287b-49c5-4f64-9541-a4e1435bee0b
+
+
 ---
 
 ## Setup & Run
